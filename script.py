@@ -8,6 +8,12 @@ b = np.tan(np.pi/2)
 
 print(b)
 
+
 d = np.arctan(np.pi/2)
 
 print(b)
+
+c = np.cos(np.pi/2)
+
+print(c)
+
