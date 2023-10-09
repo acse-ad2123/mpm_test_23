@@ -7,3 +7,7 @@ print(a)
 b = np.tan(np.pi/2)
 
 print(b)
+
+d = np.arctan(np.pi/2)
+
+print(b)
